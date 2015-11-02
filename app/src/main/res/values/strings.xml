@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TryADev</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnProcessandThread">Process and Thread</string>
+    <string name="title_activity_processand_thread">ProcessandThreadActivity</string>
+    <string name="btnCreateDialog">Dialog</string>
+</resources>
